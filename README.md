@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Email">
+  <a href="mailto:renanferreirameira@hotmail.com" alt="Email">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:renanferreirameira@hotmail.com" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5535991269402" alt="WhatsApp">
