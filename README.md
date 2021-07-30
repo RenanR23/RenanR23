@@ -26,4 +26,8 @@
 
   <a href="https://www.instagram.com/renanfemeira/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+   <a href="https://www.facebook.com/renan.ferreirameira/" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  
 </p>  
