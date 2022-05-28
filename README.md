@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🖥️ Linguagens: <strong>HTML,CSS,JS,C,C++,PHP</strong>
+  🖥️ Linguagens: <strong>HTML,CSS,JS,C,C++,PHP,Python</strong>
 </p>
 
 <p align="left">
