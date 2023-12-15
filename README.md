@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou o <strong>Renan</strong>, sou estudante de <strong>Ciência da Computação</strong> na Universidade <strong>PUC-MINAS</strong>.<br>
-  No momento me dedido exclusivamente aos estudos, e possuo foco na área de <strong>Computação Forense</strong>.
+  Olá, eu sou o <strong>Renan</strong>, sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong>.<br>
 </p>
 
 <p align="left">
