@@ -17,7 +17,7 @@ jobs:
           github_user_name: RenanR23
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Use uma versão específica que seja compatível com Node.js 16
+      # Atualização para a versão v4 da ação de GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
