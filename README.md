@@ -2,17 +2,17 @@
 
 <p align="left"> 
   Olá, eu sou o <strong>Renan</strong>, sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong> e Pós Graduando em <strong>Desenvolvimento Full Stack<strong>.<br>
-
+  <br>
 </p>
 
 <p align="left">
   🖥️ Linguagens: <strong>JS, C, C++, C#, Python, PHP</strong>
-
+  <br>
 </p>
 
 <p align="left">
   💼 Função Atual: <strong>Analista de TI Pleno II na HardNet</strong>
-
+  <br>
 </p>
 
 <p align="left">
