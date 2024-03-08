@@ -1,15 +1,15 @@
 <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou o <strong>Renan</strong>, sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong> e Pós Graduando em <strong>Desenvolvimento Full Stack<strong>.<br>
+  Olá, eu sou o <strong>Renan</strong>, sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong> e Pós Graduando em <strong>Desenvolvimento Full Stack<strong>.<br><br>
 </p>
 
 <p align="left">
-  🖥️ Linguagens: <strong>JS, C, C++, C#, Python, PHP</strong><br>
+  🖥️ Linguagens: <strong>JS, C, C++, C#, Python, PHP</strong><br><br>
 </p>
 
 <p align="left">
-  💼 Função Atual: <strong>Analista de TI Pleno II na HardNet</strong><br>
+  💼 Função Atual: <strong>Analista de TI Pleno II na HardNet</strong><br><br>
 </p>
 
 <p align="left">
