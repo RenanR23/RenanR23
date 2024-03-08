@@ -33,3 +33,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 </p>
+
+<img src="https://raw.githubusercontent.com/RenanR23/RenanR23/output/snake.svg" alt="Snake animation" />
