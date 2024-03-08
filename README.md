@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Função Atual: <strong>Analista de TI Pleno II na HardNet</strong><br><br>
+  💼 Função Atual: <strong>Analista de TI Pleno II</strong><br><br>
 </p>
 
 <p align="left">
