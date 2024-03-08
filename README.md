@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🖥️ Linguagens: <strong>HTML,CSS,JS,C,C++,Python,PHP</strong>
+  🖥️ Linguagens: <strong>JS, C, C++, C#, Python, PHP</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira entrar em contato comigo ⤵️
+  📩 Caso queira entrar em contato comigo ⤵️
 </p>
 
 <p align="left">
