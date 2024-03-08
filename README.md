@@ -1,7 +1,7 @@
 <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <br><br>Olá, eu sou o <strong>Renan</strong>,<br>sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong><br>Pós Graduando em <strong>Desenvolvimento Full Stack<strong>.<br><br>
+  <br><br>Olá, eu sou o <strong>Renan</strong>,<br>sou Bacharel em <strong>Ciência da Computação</strong> pela <strong>PUC-MINAS</strong><br>Pós Graduando em <strong>Desenvolvimento Full Stack<strong>.<br><br>
 </p>
 
 <p align="left">
