@@ -13,6 +13,10 @@
 </p>
 
 <p align="left">
+  🚀 Objetivo: <strong>Estágio/Junior em Desenvolvimento Backend/Full Stack</strong><br><br>
+</p>
+
+<p align="left">
   📩 Caso queira entrar em contato comigo ⤵️
 </p>
 
