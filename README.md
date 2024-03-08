@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou o <strong>Renan</strong>, sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong>.<br>
+  Olá, eu sou o <strong>Renan</strong>, sou Bacharel em <strong>Ciência da Computação</strong> pela Universidade <strong>PUC-MINAS</strong> e Pós Graduando em <strong>Desenvolvimento Full Stack<strong>.<br>
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, CodeBlocks</strong>
+  💼 Função Atual: <strong>Analista de TI Pleno II na HardNet</strong>
 </p>
 
 <p align="left">
