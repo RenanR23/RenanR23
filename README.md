@@ -1,4 +1,3 @@
-<div style="display: flex; align-items: flex-end; justify-content: space-between;">
 <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -33,7 +32,5 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
     </a>
   </div>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/RenanR23/RenanR23/output/snake.svg" alt="Snake animation" />
