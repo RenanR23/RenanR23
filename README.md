@@ -9,6 +9,10 @@
 </p>
 
 <p align="left">
+ㅤ<br><br><br><br>
+</p>
+
+<p align="left">
   📩 Caso queira entrar em contato comigo ⤵️
 </p>
 
