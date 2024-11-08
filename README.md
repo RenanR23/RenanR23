@@ -5,15 +5,14 @@
       <br>Olá, eu sou o <strong>Renan</strong>,<br>sou Bacharel em <strong>Ciência da Computação</strong> pela <strong>PUC-MINAS</strong><br>Pós Graduando em <strong>Desenvolvimento Full Stack</strong>.<br><br>
     </p>
 
-    <p>
+   <p>
       🖥️ Linguagens: <strong>JS, C, C++, C#, Python, PHP</strong><br><br>
-    </p>
+   </p>
 
     <!-- Seção de Contatos -->
-    <p>
+   <p>
       📩 Caso queira entrar em contato comigo ⤵️
-    </p>
-
+  </p>
     <div>
       <a href="https://www.linkedin.com/in/renanferreirameira/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
