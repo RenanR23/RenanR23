@@ -9,14 +9,6 @@
 </p>
 
 <p align="left">
-  💼 Função Atual: <strong>Analista de TI Pleno II</strong><br><br>
-</p>
-
-<p align="left">
-  🚀 Objetivo: <strong>Estágio/Júnior em Desenvolvimento Backend/Full Stack</strong><br><br>
-</p>
-
-<p align="left">
   📩 Caso queira entrar em contato comigo ⤵️
 </p>
 
