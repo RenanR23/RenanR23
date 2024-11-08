@@ -8,6 +8,10 @@
   🖥️ Linguagens: <strong>JS, C, C++, C#, Python, PHP</strong><br><br>
 </p>
 
+
+
+
+
 <p align="left">
   📩 Caso queira entrar em contato comigo ⤵️
 </p>
